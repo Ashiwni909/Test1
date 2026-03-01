@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20991504-cda9-4a6c-9f0f-1ef3be3cb4a5" name="Changes" comment="" />
+    <list default="true" id="20991504-cda9-4a6c-9f0f-1ef3be3cb4a5" name="Changes" comment="commiting code1">
+      <change afterPath="$PROJECT_DIR$/src/March/March_01_03_2026/Count_fialed_cases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/March/March_01_03_2026/Table_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FEB/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FEB/Lab002.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,27 +22,63 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ashiwni909&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ashiwni909/Test1.git&quot;,
+    &quot;accountId&quot;: &quot;b650e30a-88ac-4996-a673-49e27a48a7dd&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3AFQCcFkK5rKm7A4kWwiZqrUuQu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Count_fialed_cases.executor": "Run",
     "Application.Hello_World.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Table_10.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/Hello/src/Main.java",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Count_fialed_cases">
+    <configuration name="Count_fialed_cases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="March.March_01_03_2026.Count_fialed_cases" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="March.March_01_03_2026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello_World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FEB.ex_27_02_2026.Hello_World" />
       <module name="Java_Programs" />
@@ -51,19 +92,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FEB.Lab002" />
       <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FEB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="Table_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="March.March_01_03_2026.Table_10" />
       <module name="Java_Programs" />
-      <option name="filePath" />
-      <method v="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="March.March_01_03_2026.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_fialed_cases" />
+        <item itemvalue="Application.Table_10" />
+        <item itemvalue="Application.Lab002" />
         <item itemvalue="Application.Hello_World" />
       </list>
     </recent_temporary>
@@ -86,6 +145,19 @@
       <workItem from="1772185822482" duration="130000" />
       <workItem from="1772186683091" duration="135000" />
     </task>
+    <task id="LOCAL-00001" summary="commiting code1">
+      <option name="closed" value="true" />
+      <created>1772193542377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772193542377</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commiting code1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commiting code1" />
   </component>
 </project>
